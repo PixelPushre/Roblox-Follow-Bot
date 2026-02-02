@@ -13,7 +13,7 @@ A Python automation tool for following users on Roblox using authenticated sessi
 - Error handling with detailed failure reasons
 - Cookie-based authentication
  
-## Requirements
+## Requirements 
 
 ### Python Version
 - Python 3.7 or higher
