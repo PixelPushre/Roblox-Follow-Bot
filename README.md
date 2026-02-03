@@ -10,7 +10,7 @@ A Python automation tool for following users on Roblox using authenticated sessi
 - Proxy support for enhanced anonymity
 - Automatic retry mechanism with exponential backoff
 - Real-time progress tracking and statistics
-- Error handling with detailed failure reasons
+- Error handling with detailed failure reasons 
 - Cookie-based authentication
  
 ## Requirements 
