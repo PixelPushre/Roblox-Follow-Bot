@@ -3,7 +3,7 @@
 A Python automation tool for following users on Roblox using authenticated sessions.
 
 > ⚠️ **Educational Purposes Only** - This tool is provided for educational and research purposes. Use responsibly and in accordance with Roblox's Terms of Service.
-
+ 
 ## Features
 
 - Multi-threaded following with configurable thread count
