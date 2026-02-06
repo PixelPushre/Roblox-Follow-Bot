@@ -16,7 +16,7 @@ A Python automation tool for following users on Roblox using authenticated sessi
 ## Requirements 
 
 ### Python Version
-- Python 3.7 or higher
+- Python 3.7 or higher 
 
 ### Dependencies
 
