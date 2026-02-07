@@ -1,6 +1,7 @@
 import time
 from scripts.ui import show_banner, main_menu
 from scripts.engine import run_simulation
+import base64
 
 def main():
     show_banner()
@@ -18,3 +19,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
