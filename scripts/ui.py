@@ -1,5 +1,6 @@
 import os
 import time
+import base64
 
 BANNER = r"""
 ██████╗  ██████╗ ██████╗ ██╗      ██████╗ ██╗  ██╗
@@ -25,4 +26,5 @@ def main_menu():
     print("[1] Start follower process")
     print("[2] Exit\n")
     return input("Select option: ").strip()
+
 
