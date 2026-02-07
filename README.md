@@ -12,7 +12,7 @@ A Python automation tool for following users on Roblox using authenticated sessi
 - Real-time progress tracking and statistics 
 - Error handling with detailed failure reasons 
 - Cookie-based authentication
- 
+  
 ## Requirements 
 
 ### Python Version
